@@ -1,5 +1,4 @@
-![Priyanka Giri - LinkedIn Banner](https://user-images.githubusercontent.com/80326865/133991384-14d28e96-8002-4d9d-8bec-48220fa31dfe.png)
-
+![Priyanka Giri - Banner](https://user-images.githubusercontent.com/80326865/133991846-6c6dfe23-e034-41a7-9d33-97d2e99cde78.png)
 
 <!--
 **itspgiri/itspgiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
