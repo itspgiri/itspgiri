@@ -43,9 +43,6 @@
 <a href="https://instagram.com/itspgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspgiri" height="20" width="20" /></a>
 <a href="https://medium.com/@itspgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itspgiri" height="20" width="20" /></a>
 </p>        
-                <p align="left"><img
-                        src="https://komarev.com/ghpvc/?username=itspgiri&label=Visitor%20Number&color=000000&style=flat-square"
-                        alt="itspgiri" /></p>
         </td>
         <td align="right" width="440" border="0">
             <img src="https://github-readme-stats.vercel.app/api?username=itspgiri&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff"
