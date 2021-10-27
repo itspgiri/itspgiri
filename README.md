@@ -1,4 +1,4 @@
-![Priyanka Banner](https://user-images.githubusercontent.com/80326865/139127763-e3eeffe0-aecc-422c-be02-e4c5e947eab8.png)
+![Priyanka Giri - Banner (3)](https://user-images.githubusercontent.com/80326865/139132025-fb44e29f-de9e-4370-951d-21b7da62bca9.png)
 <table border="0" align="center">
     <tr>
         <td align="center" width="324" rowspan="3" border="0">
