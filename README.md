@@ -1,9 +1,9 @@
-![Priyanka Giri - Banner](https://user-images.githubusercontent.com/80326865/133991846-6c6dfe23-e034-41a7-9d33-97d2e99cde78.png)
+![Priyanka Banner](https://user-images.githubusercontent.com/80326865/139127763-e3eeffe0-aecc-422c-be02-e4c5e947eab8.png)
 <table border="0" align="center">
     <tr>
         <td align="center" width="324" rowspan="3" border="0">
             <p align="left"><b>I N T R O D U C T I O N</b></p>
-                <p align="left">Hello,<br>I am pre-final year student. I am passionate about technology which make a difference in
+                <p align="left">Hello,<br>I am a pre-final year student. I am passionate about technology which make a difference in
                     a person's day to day life. </p>
                 <p align="left"><b>T E C H S T A C K</b></p>
                 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
@@ -45,8 +45,7 @@
 </p>        
         </td>
         <td align="right" width="440" border="0">
-            <img src="https://github-readme-stats.vercel.app/api?username=itspgiri&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff"
-                alt="Stats" width="440" />
+            <img src="https://user-images.githubusercontent.com/80326865/139128651-3cdc17d7-1f39-495c-988c-4674e2789438.png">   
     </tr>
     <tr>
     </tr>
