@@ -3,7 +3,7 @@
     <tr>
         <td align="center" width="324" rowspan="3" border="0">
             <p align="left"><b>I N T R O D U C T I O N</b></p>
-                <p align="left">Hello,<br>I am a pre-final year student. I am passionate about technology which make a difference in
+                <p align="left">Hello,<br>I am a final year student. I am passionate about technology which make a difference in
                     a person's day to day life. </p>
                 <p align="left"><b>T E C H S T A C K</b></p>
                 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
